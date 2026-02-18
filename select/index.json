@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Payback",
+  "base_artist": "Flaw",
+  "createdAt": "2026-02-18T15:16:39.095070Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Payback (The Final Mixdown)",
+      "artist": "James Brown",
+      "has_synced": false,
+      "path": "select/01_Payback_(The_Final_Mixdown)_James_Brown.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Payback",
+      "artist": "Annihilator",
+      "has_synced": false,
+      "path": "select/02_Payback_Annihilator.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Payback",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/03_Payback_Slayer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Payback",
+      "artist": "Slayer",
+      "has_synced": false,
+      "path": "select/04_Payback_Slayer.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Payback",
+      "artist": "Lisa Loeb",
+      "has_synced": false,
+      "path": "select/05_Payback_Lisa_Loeb.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Payback",
+      "artist": "James Brown",
+      "has_synced": true,
+      "path": "select/06_The_Payback_James_Brown.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Payback",
+      "artist": "James Brown",
+      "has_synced": true,
+      "path": "select/07_The_Payback_James_Brown.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Payback Mix",
+      "artist": "James Brown",
+      "has_synced": false,
+      "path": "select/08_The_Payback_Mix_James_Brown.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Big Payback",
+      "artist": "Molly Hatchet",
+      "has_synced": false,
+      "path": "select/09_The_Big_Payback_Molly_Hatchet.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Payback",
+      "artist": "Attila",
+      "has_synced": true,
+      "path": "select/10_Payback_Attila.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Payback",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/11_Payback_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Payback",
+      "artist": "Etta James",
+      "has_synced": false,
+      "path": "select/12_Payback_Etta_James.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Payback, Part I",
+      "artist": "James Brown",
+      "has_synced": false,
+      "path": "select/13_The_Payback,_Part_I_James_Brown.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Payback--Part I",
+      "artist": "James Brown",
+      "has_synced": false,
+      "path": "select/14_The_Payback--Part_I_James_Brown.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Payback",
+      "artist": "Flaw",
+      "has_synced": false,
+      "path": "select/pl_01_Payback_Flaw.txt"
+    }
+  ]
+}
